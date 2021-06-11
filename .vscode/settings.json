@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/vincentiuscalvin/anaconda3/envs/personal/bin/python",
+    "python.autoComplete.extraPaths": [
+      "~/.local/lib/Google/google_appengine",
+      "~/.local/lib/Google/google_appengine/lib/flask-0.12" ]
+}
